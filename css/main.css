@@ -644,6 +644,7 @@ blockquote p::before{
 }
 
 footer.info-testimonial{
+  background-color: #ffffff;
   padding:0;
 }
 footer.info-testimonial img{
@@ -664,6 +665,7 @@ footer.info-testimonial cite{
   font-style: normal;
 }
 footer.info-testimonial cite span{
+
   color: #000000;
   display: block;
   text-transform: none;
